@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'sniglet';
+    src: url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+}
+
+body{
+    margin-top: 40px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.main{
+    background-color: black;
+    width: 830px;
+    height: 480px;
+}
+
+
+.photo{
+    width: 25%;
+    position: absolute;
+    padding-left: 260px;
+    width: 270px;
+    height: 480px;
+}
+
+.gmail{
+    position: absolute;
+    font-size: 10px;
+    padding-top: 9px;
+    padding-left: 88px;
+}
+
+.left{
+    color: white;
+    position: absolute;
+    padding-left: 60px;   
+}
+
+.dhea{
+    font-variant: small-caps;
+    font-size: 15px;
+    font-family: 'sniglat';
+}
+
+.link-here{
+    width:50%;
+    background-color: orangered;
+    border-radius: 11px;
+    margin-bottom: 11px;
+    font-size: 0.6rem;
+    font-weight: bold;
+    padding: 10px;
+    font-family:'Lucida Sans Regular';
+    color:white;
+}   
+
+.fb{
+    padding-top: 80px;
+    width :7%;
+    position:absolute;
+}
+
+.twit{
+    padding-top: 20px;
+    width :7%;
+    position:absolute;
+}
+
+.ig{
+    padding-top: 50px;
+    width :7%;
+    position:absolute;
+}
+
+#footer{
+    padding-top: 61px;
+    padding-left:90px;
+    font-size: small;
+    font-family: 'Segoe UI';
+}
+
+.photo-simbol{
+    width:13px;
+    padding-top: 82px;
+    position: absolute;
+    padding-left: 70px;
+}
+
+.right{
+    padding-left: 550px;
+    color: white;
+    position: absolute;
+    padding-right: 350px;
+}
+
+.circle{
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 380;
+    height: 120px;
+}
+
+.expert{
+    padding-top: 1px;
+    color: orangered;
+    font-size: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.explain{
+    padding-right: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.hey{
+    font-size: small;
+    text-align: justify;
+}
+
+.cv{
+    color: orangered;
+    font-size: small;
+}
+
+#footer2{
+    padding-top: 66px;
+    float: right;
+    font-size: 10px;
+}
